@@ -2,18 +2,18 @@
 
 ## Overview
 
-The Cyclistic Bike-Share program aims to analyze the 2019 and 2020 bike-share data to compare how annual members (subscribers) and casual riders use Cyclistic bikes. The goal of this project is to leverage these insights to design strategies that convert casual riders into annual members, ensuring greater engagement and higher profitability for the company.
+The Cyclistic Bike-Share program aims to analyze the bike-share data from **January 1 to March 31, 2019, and 2020** to compare how annual members (subscribers) and casual riders use Cyclistic bikes. The goal of this project is to leverage these insights to design strategies that convert casual riders into annual members, ensuring greater engagement and higher profitability for the company.
 
 ---
 
 ## Tableau Dashboards
 
-Here are the Tableau visualizations for the 2020 and 2019 Cyclistic bike-share data:
+Here are the Tableau visualizations for the **January 1 to March 31, 2020** and **2019** Cyclistic bike-share data:
 
-- **2020 Data Tableau:**  
+- **2020 Data Tableau (Jan 1 - Mar 31, 2020):**  
 [View 2020 Data Tableau](https://public.tableau.com/views/Cyclisticbike-shareanalysiscasestudyDivvy2020Q1/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
-- **2019 Data Tableau:**  
+- **2019 Data Tableau (Jan 1 - Mar 31, 2019):**  
 [View 2019 Data Tableau](https://public.tableau.com/views/Cyclisticbike-shareanalysiscasestudyDivvy2019Q1/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ---
@@ -21,7 +21,7 @@ Here are the Tableau visualizations for the 2020 and 2019 Cyclistic bike-share d
 ## Analysis
 
 ### Business Task:
-As part of the Cyclistic Bike-Share program’s marketing analytics team, our task is to analyze the 2019 and 2020 bike-share data to compare how annual members (subscribers) and casual riders use Cyclistic bikes. Our ultimate goal is to leverage these insights to design strategies that convert casual riders into annual members, ensuring greater engagement and higher profitability for the company.
+As part of the Cyclistic Bike-Share program’s marketing analytics team, our task is to analyze the bike-share data from **January 1 to March 31, 2019, and 2020** to compare how annual members (subscribers) and casual riders use Cyclistic bikes. Our ultimate goal is to leverage these insights to design strategies that convert casual riders into annual members, ensuring greater engagement and higher profitability for the company.
 
 ### Key Questions to Answer:
 
@@ -75,4 +75,4 @@ As part of the Cyclistic Bike-Share program’s marketing analytics team, our ta
 
 ## Final Conclusion:
 
-The analysis of the 2019 and 2020 data reveals clear differences in usage patterns between casual riders and subscribers. By targeting casual riders with tailored marketing strategies, including cost savings, flexibility, and unlimited access, Cyclistic can successfully convert them into annual members, increasing both membership and revenue.
+The analysis of the **January 1 to March 31, 2019, and 2020** data reveals clear differences in usage patterns between casual riders and subscribers. By targeting casual riders with tailored marketing strategies, including cost savings, flexibility, and unlimited access, Cyclistic can successfully convert them into annual members, increasing both membership and revenue.
